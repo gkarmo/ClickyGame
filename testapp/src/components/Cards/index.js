@@ -1,14 +1,13 @@
 import React from "react";
+import "./style.css";
 
 function Card(props) {
       return (
-        <main class="container">
         <div role="img" aria-label="click item" class="click-item">
           <div className="img-container">
-            <img alt={props.id} src={props.image} />
+            <img alt={props.name} src={props.image} />
           </div>        
         </div>
-      </main>
       );
   }
 

@@ -1,63 +1,75 @@
 [
     {
         "id": 1,
+        "name": "Stewie Griffen",
         "image":
-          "./images/familyguy1.png"
+        "http://www.pngmart.com/files/3/Family-Guy-PNG-Transparent-Picture.png"
       },
     {
         "id": 2,
+        "name": "Plain Peter",
         "image":
-        "./images/familyguy2.png.png"
+        "http://www.pngmart.com/files/3/Family-Guy-PNG-Photos.png"
     },
     {
         "id": 3,
+        "name": "Dressed Evil Monkey",
         "image":
-          "images/familyguy3.png.png"
+          "http://www.pngmart.com/files/3/Family-Guy-PNG-HD.png"
     },
     {
         "id": 4,
+        "name": "Evil Monkey",
         "image":
-          "../images/familyguy4.png.png"
+          "http://www.pngmart.com/files/3/Family-Guy-PNG-File.png"
     },
     {
         "id": 5,
+        "name": "Gold Peter",
         "image":
-          "../../public/images/familyguy5.png"
+          "http://www.pngmart.com/files/3/Family-Guy-PNG-Transparent.png"
     },
     {
         "id": 6,
+        "name": "Bent Bender",
         "image":
-          "public/images/familyguy5.png.png"
+          "http://www.pngmart.com/files/8/Futurama-PNG-Image-HD.png"
     },
     {
         "id": 7,
+        "name": "Happy Bender",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://www.pngmart.com/files/4/Bender-PNG-File.png"
     },
     {
         "id": 8,
+        "name": "Drinking Buddies",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://www.pngmart.com/files/8/Futurama-PNG-Free-Image.png"
     },
     {
         "id": 9,
+        "name": "The Simpson",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://www.pngmart.com/files/5/The-Simpsons-PNG-Clipart.png"
     },
     {
         "id": 10,
+        "name": "Happy Homer",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://pngimg.com/uploads/simpsons/simpsons_PNG88.png"
     },
     {
         "id": 11,
+        "name": "Jumping Bart",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://pngimg.com/uploads/simpsons/simpsons_PNG75.png"
     },
     {
         "id": 12,
+        "name": "Happy Bart",
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "http://pngimg.com/uploads/simpsons/simpsons_PNG71.png"
     }
 
   ]
