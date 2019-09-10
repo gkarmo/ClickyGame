@@ -1,31 +1,31 @@
 import React from "react";
-import "./style.css";
-import imageLoader from "../Images/images.js"
+// import "./style.css";
+// import image from "images.js"
 
 
-class Card extends React.Component {
+function Card(props) {
     // Setting the initial state of the Counter component
-    this.state = {
-        images: []
-      }
+    //     state = {
+    //     images: []
+    //   };
       
       
-      componentDidMount() {
-        const images = imageLoader()
-        this.setState({images})
-      }
+    //   componentDidMount = () => {
+    //     const images = imageLoader()
+    //     this.setState({images})
+    //   };
     // The render method returns the JSX that should be rendered
-    render() {
+    // render() {
       return (
         <main class="container">
-        <div role="img" aria-label="click item" class="click-item" style="background-image: url(&quot;/assets/images/gianthead.png&quot;);">
+        <div role="img" aria-label="click item" class="click-item">
           <div className="img-container">
-              {componentDidMount()}
+            <img alt={props.id} src={props.image} />
           </div>        
         </div>
       </main>
       );
-    }
+    // }
   }
 
 export default Card;
