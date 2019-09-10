@@ -2,22 +2,22 @@
     {
         "id": 1,
         "image":
-          "/images/familyguy1.png"
+          "./images/familyguy1.png"
       },
     {
         "id": 2,
         "image":
-        "./public/images/familyguy2.png"
+        "./images/familyguy2.png.png"
     },
     {
         "id": 3,
         "image":
-          "../public/images/familyguy3.png"
+          "images/familyguy3.png.png"
     },
     {
         "id": 4,
         "image":
-          "./../public/images/familyguy4.png"
+          "../images/familyguy4.png.png"
     },
     {
         "id": 5,
@@ -27,7 +27,7 @@
     {
         "id": 6,
         "image":
-          "https://public/images/familyguy5.png"
+          "public/images/familyguy5.png.png"
     },
     {
         "id": 7,
