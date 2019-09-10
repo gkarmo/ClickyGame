@@ -7,22 +7,22 @@
     {
         "id": 2,
         "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+        "./public/images/familyguy2.png"
     },
     {
         "id": 3,
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "../public/images/familyguy3.png"
     },
     {
         "id": 4,
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "./../public/images/familyguy4.png"
     },
     {
         "id": 5,
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "../../public/images/familyguy5.png"
     },
     {
         "id": 6,
