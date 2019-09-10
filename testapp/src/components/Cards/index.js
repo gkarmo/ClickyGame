@@ -3,7 +3,7 @@ import "./style.css";
 
 function Card(props) {
       return (
-        <div role="img" aria-label="click item" class="card">
+        <div role="img" aria-label="click item" class="card img-container">
           <div className="img-container">
             <img alt={props.name} src={props.image} />
           </div>        
