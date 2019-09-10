@@ -1,7 +1,4 @@
 import React from "react";
-// import "./style.css";
-// import image from "images.js"
-
 
 function Card(props) {
       return (

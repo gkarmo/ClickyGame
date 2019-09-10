@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image":
-          "public/images/familyguy1.png"
+          "/images/familyguy1.png"
       },
     {
         "id": 2,
@@ -27,7 +27,7 @@
     {
         "id": 6,
         "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+          "https://public/images/familyguy5.png"
     },
     {
         "id": 7,
