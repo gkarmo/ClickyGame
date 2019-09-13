@@ -11,15 +11,15 @@ class Header extends React.Component {
 render() {
   return (
     <div class="container">
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron jumbotron-fluid" id="jumbo-head">
         <div class="container">
-          <h1 class="display-4">Animation Domination</h1>
-          <p class="lead">
+          <h1 class="display-4 header-text">Animation Domination</h1>
+          <p class="lead header-text">
             Click on an image to earn points, but don't click on any more than
             once!
           </p>
-          <p>Score:{this.state.score}</p>
-          <p>Top Score:{this.state.topScore}</p>
+          <p class="header-text">Score: {this.state.score}</p>
+          <p class="header-text">Top Score: {this.state.topScore}</p>
         </div>
       </div>
     </div>
